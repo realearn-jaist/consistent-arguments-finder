@@ -1,1 +1,1 @@
-# consistent-arguments-finder
+# Consistent Arguments Finder
